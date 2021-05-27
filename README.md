@@ -1,7 +1,7 @@
 ### Jomo Kenyatta University of Agriculture and Technology Association of Geomatic and Geospatial Eng. Students (AGGES) 
 <hr>
 
-[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apaache2.0)
 ![GitHub repo size](https://img.shields.io/github/repo-size/okomojacob/8d19d988d6f?color=green-yellow&logo=github&logoColor=blue) 
 ![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/8d19d988d6f?logo=visual-studio-code) 
 ![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/8d19d988d6f)
