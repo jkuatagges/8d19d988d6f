@@ -56,3 +56,8 @@ Hitherto, we give sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.
 -Merge Joy's work(Search bar) <br>
 -Scroll to top working on Elijah's, merge to main from the owl folder <br>
 -Check in the issues section <br>
+
+###### References
+1. [W3Schools](https://www.w3schools.com/)<br >
+2. [Easy Tutorials](https://www.youtube.com/watch?v=oYRda7UtuhA) <br >
+3. 
